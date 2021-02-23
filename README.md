@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends for Louise's play
-![Outcomes-LaunchDate](/Users/Hunter/Desktop/Kailey Docs/UT Bootcamp/Module 1/Outcomes-LaunchDate.png)
+![Outcomes-LaunchDate.png](/Users/Hunter/Desktop/Kailey Docs/UT Bootcamp/Module 1/Outcomes-LaunchDate.png)
 
 I have several recommendations for Louise based on the data.
 *Start your project in June, as you can see in the above chart.
