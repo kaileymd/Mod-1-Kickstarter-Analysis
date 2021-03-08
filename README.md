@@ -48,7 +48,7 @@ For Louise's play *Fever*, I would recommend launching in May or June and loweri
 ### Study Limitations
 Unfortunately, this data set is limited and does not provide information on types of rewards or any promotional tactics taken on behalf of the creator and would need to come from somewhere else. We also cannot drill down further into the data to reveal genres of successful plays, or where in the U.S. the plays were expected to perform.
 
-#### Moving Forward
+### Moving Forward
 To continue the analysis, we could create more graphs to reveal if a certain time of day produces higher success, the average donation amount, and length of Kickstarter campaigns to help Louise determine how to set up her campaign and how long she should expect to fundraise before her goal is met.
 
 If Louise determines more analysis is necessary, check back soon for further project updates.
