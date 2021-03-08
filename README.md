@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Project Overview
-So you want to crowdfund your dream project - now what? This project will delve into Kickstarter campaign data to discover any relevant trends to help you make your project a success.
+So you want to crowdfund your dream project - now what? This project will delve into Kickstarter campaign data to discover any trends between campaign outcomes.
 
 ### Purpose
 This analysis will look at the performance of projects in the 'Theater' category, including plays, musicals, and theater spaces, to provide insight and actionable takeaways to make *Fever*, Louise's play, a possibility. Louise is an upcoming playwright who anticipates needing $10,000 to fund *Fever*.
